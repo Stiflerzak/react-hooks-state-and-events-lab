@@ -9,7 +9,7 @@ function ShoppingList({ items }) {
           <option value="All">Filter by category</option>
           <option value="Produce">Produce</option>
           <option value="Dairy">Dairy</option>
-          <option value="Dessert">Dessert</option>
+          <option value="Dessert">Dessert</option>          
         </select>
       </div>
       <ul className="Items">
